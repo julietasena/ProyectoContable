@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\bin\Debug\net7.0-windows\SistemaContable.exe
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\bin\Debug\net7.0-windows\SistemaContable.deps.json
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\bin\Debug\net7.0-windows\SistemaContable.runtimeconfig.json
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\bin\Debug\net7.0-windows\SistemaContable.dll
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\bin\Debug\net7.0-windows\SistemaContable.pdb
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.AssemblyInfo.cs
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.dll
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\refint\SistemaContable.dll
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.pdb
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\SistemaContable.genruntimeconfig.cache
+C:\Users\Usuario\Documents\UTN\Laboratorio 3\SistemaContable\SistemaContable\obj\Debug\net7.0-windows\ref\SistemaContable.dll
+C:\Users\julie\Documents\UTN\Sistema-Contable-Blockchain-master\Sistema-Contable-Blockchain-master\obj\Debug\net7.0-windows\SistemaContable.dll
+C:\Users\julie\Documents\UTN\Sistema-Contable-Blockchain-master\Sistema-Contable-Blockchain-master\obj\Debug\net7.0-windows\refint\SistemaContable.dll
+C:\Users\julie\Documents\UTN\Sistema-Contable-Blockchain-master\Sistema-Contable-Blockchain-master\obj\Debug\net7.0-windows\SistemaContable.pdb
